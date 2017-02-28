@@ -1,11 +1,3 @@
-/*@font-face {
-  src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/PFDinTextCompPro-Medium.ttf);
-  font-family: pfd-medium;
-}
-@font-face {
-  src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/PT_Sans-Web-Regular.ttf);
-  font-family: ptsans-regular;
-}*/
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0;
@@ -13,7 +5,8 @@
   padding: 0;
 }
 
-html, body {
+html,
+body {
   font-size: 62.5%;
   overflow: hidden;
 }
@@ -35,8 +28,6 @@ html, body {
   height: 100%;
 }
 
-/* END OF GLOBAL STYLES */
-/* SIDEBAR HOVER STYLES */
 .sidebar-hover {
   position: fixed;
   z-index: 100;
@@ -127,7 +118,7 @@ html, body {
   right: 3rem;
   top: 0.5rem;
   -webkit-animation: navArrowMove 1s infinite;
-          animation: navArrowMove 1s infinite;
+  animation: navArrowMove 1s infinite;
 }
 .pagination .page {
   color: #fff;
@@ -362,9 +353,9 @@ html, body {
   background: rgba(0, 0, 0, 0.4);
   cursor: pointer;
 }
-.section-heading:hover {
+/*.section-heading:hover {
   color: rgba(255, 89, 89, 0.7);
-}
+}*/
 
 .additional-text {
   top: 332px;
