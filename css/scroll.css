@@ -239,14 +239,12 @@ body {
   background-image: url(../images/5.jpg);
 }
 .nav-elem.nav-6 {
-  background-image: url(../images/6.jpg);
-}
-.nav-elem.nav-7 {
   background-image: url(../images/4.jpg);
 }
-.nav-elem.nav-8 {
+.nav-elem.nav-7 {
   background-image: url(../images/8.jpg);
 }
+
 
 .sections {
   height: 100%;
@@ -290,23 +288,18 @@ body {
   background-image: url(../images/5.jpg);
 }
 .section.section-6 .left-part {
-  background-image: url(../images/6.jpg);
+  background-image: url(../images/4.jpg);
 }
 .section.section-6 .bg-part {
-  background-image: url(../images/6.jpg);
+  background-image: url(../images/4.jpg);
 }
 .section.section-7 .left-part {
-  background-image: url(../images/4.jpg);
+  background-image: url(../images/8.jpg);
 }
 .section.section-7 .bg-part {
-  background-image: url(../images/4.jpg);
-}
-.section.section-8 .left-part {
   background-image: url(../images/8.jpg);
 }
-.section.section-8 .bg-part {
-  background-image: url(../images/8.jpg);
-}
+
 
 .left-part,
 .bg-part {
